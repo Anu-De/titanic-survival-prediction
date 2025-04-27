@@ -3,7 +3,7 @@ Title: Titanic Survival Prediction
 This project involves building a machine learning model to predict survival outcomes of Titanic passengers based on various features. The focus is on preprocessing, model selection, evaluation, and reporting.
 🛠 Preprocessing Steps
 
-    Dropped columns: Cabin.
+    Dropped columns: Cabin, PassengerId, Name, Ticket
 
     Handling missing values:
 
