@@ -76,3 +76,26 @@ Recall (Class 1)	93%
     SVC provided stronger generalization, especially on unseen data.
 
     Therefore, SVC was selected as the final model for deployment.
+
+
+🚀 How to Run
+
+    Clone the repository:
+
+git clone https://github.com/yourusername/titanic-survival-prediction.git
+
+pip install -r requirements.txt
+
+Run the Jupyter Notebook:
+
+    jupyter notebook titanic_survival_prediction.ipynb
+
+🧰 Tools Used
+
+    Python
+
+    Jupyter Notebook
+
+    scikit-learn
+
+    pandas, numpy, matplotlib
